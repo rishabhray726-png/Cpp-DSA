@@ -1,0 +1,38 @@
+# Compiled binaries
+a.out
+*.out
+*.exe
+*.app
+# Local executable outputs without a file extension
+/01_Patterns/hollow-square
+/01_Patterns/right-triangle
+
+# C/C++ build artifacts
+*.o
+*.obj
+*.lo
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.d
+*.gch
+*.pch
+compile_commands.json
+
+# Build directories
+build/
+cmake-build-*/
+bin/
+obj/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
